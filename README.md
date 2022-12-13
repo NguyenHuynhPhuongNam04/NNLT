@@ -3,4 +3,5 @@
 ## [Bài 2](https://www.jdoodle.com/embed/v0/5AwS) 
 ## [Bài 3](https://www.jdoodle.com/embed/v0/5AxR)
 ## [Bài 4](https://www.jdoodle.com/embed/v0/5Az7)
-## [Bài 5](https://www.jdoodle.com/embed/v0/5B2P)
+# Bài tập lập trình if switch
+## [Bài 1](https://www.jdoodle.com/embed/v0/5B2P)
