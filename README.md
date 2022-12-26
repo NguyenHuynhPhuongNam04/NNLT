@@ -1,3 +1,5 @@
+# Bài 2: các câu lệnh đơn
+## [bài tập 1](https://www.jdoodle.com/embed/v0/5CHZ)
 # Bài 3: các câu lệnh rẽ nhánh
 ## [Bài tập 1](https://www.jdoodle.com/embed/v0/5Awy)
 ## [Bài tập 2](https://www.jdoodle.com/embed/v0/5AwS) 
