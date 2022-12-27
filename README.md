@@ -11,5 +11,7 @@
 ## [Bài 2](https://www.jdoodle.com/embed/v0/5B4j)
 ## [Bài 3](https://www.jdoodle.com/embed/v0/5D8M)
 ## [Bài 4](https://www.jdoodle.com/embed/v0/5D9w)
+# Bài tập lập trình for, while, do/while
+## [Bài 2](https://www.jdoodle.com/embed/v0/5FU8)
 # Kiểm tra ngày 20/12
 ## [Câu 1](https://www.jdoodle.com/embed/v0/5F25)
