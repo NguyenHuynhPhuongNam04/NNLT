@@ -2,7 +2,7 @@
 ## [Ví dụ 1](https://www.jdoodle.com/a/5CHZ)
 ## [Ví dụ 4](https://www.jdoodle.com/a/5HKz)
 # Bài 3: các câu lệnh rẽ nhánh
-## [Bài tập 1](https://www.jdoodle.com/a/5Awy)
+## [Bài tập 1](http://www.jdoodle.com/a/5Awy)
 ## [Bài tập 2](https://www.jdoodle.com/a/5AwS)  
 ## [Bài tập 3](https://www.jdoodle.com/a/5AxR)
 ## [Bài tập 4](https://www.jdoodle.com/embed/v0/5Az7)
