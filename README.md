@@ -20,5 +20,7 @@
 ## [Bài 1](https://www.jdoodle.com/a/5HKQ)
 ## [Bài 2](https://www.jdoodle.com/a/5FU8) 
 ## [Bài 3](https://www.jdoodle.com/a/5HKU)
+# Bài tập lập trình về Hàm
+## [Bài 1](https://www.jdoodle.com/a/5HL7)
 # Kiểm tra ngày 20/12
 ## [Câu 1](https://www.jdoodle.com/embed/v0/5F25)
