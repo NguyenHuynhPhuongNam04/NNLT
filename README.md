@@ -5,7 +5,7 @@
 ## [Bài tập 1](http://www.jdoodle.com/a/5Awy)
 ## [Bài tập 2](https://www.jdoodle.com/a/5AwS)  
 ## [Bài tập 3](https://www.jdoodle.com/a/5AxR)
-## [Bài tập 4](https://www.jdoodle.com/embed/v0/5Az7)
+## [Bài tập 4](https://www.jdoodle.com/a/5Az7)
 # Bài 4: các câu lệnh lặp
 ## [Ví dụ 3 vòng lặp for](https://www.jdoodle.com/embed/v0/5GAY)
 ## [Ví dụ 3 vòng lặp while](https://www.jdoodle.com/embed/v0/5GG0)
