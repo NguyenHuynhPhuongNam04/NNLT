@@ -12,10 +12,10 @@
 ## [Ví dụ 3 lệnh do while](https://www.jdoodle.com/a/5GGb)
 ## [Ví dụ lệnh continue](https://www.jdoodle.com/a/5GGg)
 # Bài tập lập trình if switch
-## [Bài 1](https://www.jdoodle.com/embed/v0/5B2P)
-## [Bài 2](https://www.jdoodle.com/embed/v0/5B4j)
-## [Bài 3](https://www.jdoodle.com/embed/v0/5D8M)
-## [Bài 4](https://www.jdoodle.com/embed/v0/5D9w)
+## [Bài 1](https://www.jdoodle.com/a/5B2P)
+## [Bài 2](https://www.jdoodle.com/a/5B4j)
+## [Bài 3](https://www.jdoodle.com/a/5HKN)
+## [Bài 4](https://www.jdoodle.com/a/5D9w)
 # Bài tập lập trình for, while, do/while
 ## [Bài 2](https://www.jdoodle.com/embed/v0/5FU8) 
 # Kiểm tra ngày 20/12
