@@ -11,6 +11,8 @@
 ## [Ví dụ 3 vòng lặp while](https://www.jdoodle.com/a/5GG0)
 ## [Ví dụ 3 lệnh do while](https://www.jdoodle.com/a/5GGb)
 ## [Ví dụ lệnh continue](https://www.jdoodle.com/a/5GGg)
+# Bài 5: Hàm
+## [Bài tập Nguyên tắc hoạt động của hàm](https://www.jdoodle.com/a/5I3p)
 # Bài tập lập trình if switch
 ## [Bài 1](https://www.jdoodle.com/a/5B2P)
 ## [Bài 2](https://www.jdoodle.com/a/5B4j)
