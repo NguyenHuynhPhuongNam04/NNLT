@@ -29,3 +29,5 @@
 ## [Bài 1](https://www.jdoodle.com/a/5HL7)
 # Kiểm tra ngày 20/12
 ## [Câu 1](https://www.jdoodle.com/embed/v0/5F25)
+# Thi kết thúc môn
+## [10/1](https://www.jdoodle.com/a/5I40)
